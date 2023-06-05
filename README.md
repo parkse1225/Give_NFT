@@ -25,5 +25,3 @@ npm i wagmi@0.10.15
 /* backend folder */ npm run start
 /* frontend folder */ npm run dev
 ```
-=======
-# Give_NFT
