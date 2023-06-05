@@ -9,7 +9,7 @@ require("dotenv").config({path : ".env "});
 app.use(cors());
 app.use(express.json());
 
-const MORALIS_API_KEY = "I81fWVIUD4ZrWwiUupWzv961jwSZ0bGRi32KbcLf683JiYKh9dVnM1eKVAB28ihO";
+const MORALIS_API_KEY = "{INPUT_YOUR_MORALIS_API_KEY}";
 
 app.get("/getethprice", async (req, res) => {
     try{
