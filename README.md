@@ -8,6 +8,7 @@ Origin code github : https://github.com/MoralisWeb3/youtube-tutorials/tree/main/
 1. backend folder > npm i cors moralis express dotenv
 
 1-1. code-frontend make: npx create-next-app@latest
+
 2. frontend folder > npm i axios moment fortawesome
 
 # Run
