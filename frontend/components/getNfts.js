@@ -7,7 +7,7 @@ import Card from "./card";
 export default function getNfts() {
   const [nfts, setNfts] = useState([]);
   const { address } = useAccount();
-  const chain = "0x89";
+  const chain = "0x1";
 
   useEffect(() => {
     let response;

@@ -29,9 +29,10 @@ export default function Header() {
           <p></p>
           <p></p>
           <p></p>
-          <a href="/">Home</a>
-          <a href="/SendETH">Send ETH</a>
-          <a href="/NFT">NFT</a>
+          <p><a href="/">Home</a></p>
+          <p><a href="/ETH">ETH</a></p>
+          <p><a href="/NFT">NFT</a></p>
+          {/* <p><a href="/ReceiveETH">NFT</a></p> */}
           <p>|</p>
           <p>Connect Metamask</p>
         </section>
