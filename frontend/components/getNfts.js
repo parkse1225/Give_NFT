@@ -2,7 +2,7 @@ import { useAccount } from "wagmi";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import styles from "../styles/Nft.module.css";
-import Card from "./card.js";
+import Card from "./card";
 
 export default function getNfts() {
   const [nfts, setNfts] = useState([]);
