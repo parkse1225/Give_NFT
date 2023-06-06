@@ -14,6 +14,7 @@ npx create-next-app@latest
 ```
 
 # modules
+/* frontend folder */
 ```c
 npm i web3
 npm i ethers@5.7.2
